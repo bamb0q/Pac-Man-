@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c4f93905a986c4d48ba95fa446cbc733
+timeCreated: 1511027468
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Cosmic Age Outine
+  fontNames:
+  - SF Cosmic Age Outine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
